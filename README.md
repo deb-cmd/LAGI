@@ -1,1 +1,1 @@
-#LAGI: Local Artificial General Intelligence
+# LAGI: Local Artificial General Intelligence
